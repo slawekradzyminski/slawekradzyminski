@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Slawek Radzyminski</h1>
+<h1 align="left">Hi, I'm Sławek Radzymiński</h1>
 
 <p align="left">
   Test Lead at Ocado Technology.<br/>
@@ -6,13 +6,13 @@
 </p>
 
 <p align="left">
-  <a href="https://www.awesome-testing.com">Blog</a> •
+  <a href="https://www.awesome-testing.com">Blog</a>
 </p>
 
 ## What I'm working on
 
 - AI-powered testing workflows
-- Playwright + MCP tooling
+- Agentic coding and testing
 - Practical testing strategies for modern engineering teams
 
 ## Latest blog posts

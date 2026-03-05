@@ -20,6 +20,7 @@
 <!-- BLOG-POST-LIST:START -->
 | Date | Post |
 |---|---|
+| 2026-03-02 | [Playwright CLI, Skills and Isolated Agentic Testing](https://www.awesome-testing.com/2026/03/playwright-cli-skills-and-isolated-agentic-testing) |
 | 2026-02-14 | [The Current State of Agentic Software Development](https://www.awesome-testing.com/2026/02/ai-coding-2026-hype-vs-reality) |
 | 2025-12-23 | [AI Testing Skills: The Evolution Beyond RAG and MCP](https://www.awesome-testing.com/2025/12/ai-testing-skills) |
 | 2025-12-16 | [Why AI Coding Is Moving Back to the Terminal (CLI Agents)](https://www.awesome-testing.com/2025/12/why-ai-coding-is-moving-back-to-terminal) |
@@ -29,7 +30,6 @@
 | 2025-11-09 | [Building RAG with Gemini File Search](https://www.awesome-testing.com/2025/11/gemini-file-search-managed-rag) |
 | 2025-11-01 | [Testing LLM-based Systems](https://www.awesome-testing.com/2025/11/testing-llm-based-systems) |
 | 2025-10-18 | [Test-Driven AI Development (TDAID)](https://www.awesome-testing.com/2025/10/test-driven-ai-development-tdaid) |
-| 2025-10-11 | [Understanding Playwright Agents](https://www.awesome-testing.com/2025/10/playwright-agents) |
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -20,6 +20,7 @@
 <!-- BLOG-POST-LIST:START -->
 | Date | Post |
 |---|---|
+| 2026-03-29 | [From One Local Stack to Three Training Profiles](https://www.awesome-testing.com/2026/03/from-one-local-stack-to-three-training-profiles) |
 | 2026-03-15 | [LLMs vs AI Agents: A Practical Mental Model for Developers](https://www.awesome-testing.com/2026/03/llms-vs-ai-agents-practical-mental-model) |
 | 2026-03-02 | [Playwright CLI, Skills and Isolated Agentic Testing](https://www.awesome-testing.com/2026/03/playwright-cli-skills-and-isolated-agentic-testing) |
 | 2026-02-14 | [The Current State of Agentic Software Development](https://www.awesome-testing.com/2026/02/ai-coding-2026-hype-vs-reality) |
@@ -29,7 +30,6 @@
 | 2025-11-27 | [Agentic Testing - The New Testing Approach](https://www.awesome-testing.com/2025/11/agentic-testing) |
 | 2025-11-15 | [Playwright MCP - Security Best Practices](https://www.awesome-testing.com/2025/11/playwright-mcp-security) |
 | 2025-11-09 | [Building RAG with Gemini File Search](https://www.awesome-testing.com/2025/11/gemini-file-search-managed-rag) |
-| 2025-11-01 | [Testing LLM-based Systems](https://www.awesome-testing.com/2025/11/testing-llm-based-systems) |
 <!-- BLOG-POST-LIST:END -->
 
 ---

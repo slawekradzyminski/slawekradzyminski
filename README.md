@@ -20,6 +20,8 @@
 <!-- BLOG-POST-LIST:START -->
 | Date | Post |
 |---|---|
+| 2026-07-11 | [AI Coding Agents in 2026: Discovery, Skills, Costs, and What Comes Next](https://www.awesome-testing.com/2026/07/ai-coding-agents-in-2026) |
+| 2026-05-30 | [Local Image Generation with Bonsai Image 4B](https://www.awesome-testing.com/2026/05/local-image-generation-with-bonsai-image-4b) |
 | 2026-03-29 | [From One Local Stack to Three Training Profiles](https://www.awesome-testing.com/2026/03/from-one-local-stack-to-three-training-profiles) |
 | 2026-03-15 | [LLMs vs AI Agents: A Practical Mental Model for Developers](https://www.awesome-testing.com/2026/03/llms-vs-ai-agents-practical-mental-model) |
 | 2026-03-02 | [Playwright CLI, Skills and Isolated Agentic Testing](https://www.awesome-testing.com/2026/03/playwright-cli-skills-and-isolated-agentic-testing) |
@@ -28,8 +30,6 @@
 | 2025-12-16 | [Why AI Coding Is Moving Back to the Terminal (CLI Agents)](https://www.awesome-testing.com/2025/12/why-ai-coding-is-moving-back-to-terminal) |
 | 2025-12-06 | [Learning AI](https://www.awesome-testing.com/2025/12/learning-ai) |
 | 2025-11-27 | [Agentic Testing - The New Testing Approach](https://www.awesome-testing.com/2025/11/agentic-testing) |
-| 2025-11-15 | [Playwright MCP - Security Best Practices](https://www.awesome-testing.com/2025/11/playwright-mcp-security) |
-| 2025-11-09 | [Building RAG with Gemini File Search](https://www.awesome-testing.com/2025/11/gemini-file-search-managed-rag) |
 <!-- BLOG-POST-LIST:END -->
 
 ---

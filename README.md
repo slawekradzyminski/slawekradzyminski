@@ -20,6 +20,7 @@
 <!-- BLOG-POST-LIST:START -->
 | Date | Post |
 |---|---|
+| 2026-09-13 | [Understanding Computer Use](https://www.awesome-testing.com/2026/09/computer-use) |
 | 2026-08-02 | [Mutation Testing for Agent-Written Code](https://www.awesome-testing.com/2026/08/mutation-testing-for-agent-written-code) |
 | 2026-07-26 | [Voice Interface for AI Discovery and Learning](https://www.awesome-testing.com/2026/07/voice-interface-for-ai-discovery-and-learning) |
 | 2026-07-21 | [Self-Healing Tests with AI: Triage Before Repair](https://www.awesome-testing.com/2026/07/self-healing-tests-with-ai) |
@@ -29,7 +30,6 @@
 | 2026-03-15 | [LLMs vs AI Agents: A Practical Mental Model for Developers](https://www.awesome-testing.com/2026/03/llms-vs-ai-agents-practical-mental-model) |
 | 2026-03-02 | [Playwright CLI, Skills and Isolated Agentic Testing](https://www.awesome-testing.com/2026/03/playwright-cli-skills-and-isolated-agentic-testing) |
 | 2026-02-14 | [The Current State of Agentic Software Development](https://www.awesome-testing.com/2026/02/ai-coding-2026-hype-vs-reality) |
-| 2025-12-23 | [AI Testing Skills: The Evolution Beyond RAG and MCP](https://www.awesome-testing.com/2025/12/ai-testing-skills) |
 <!-- BLOG-POST-LIST:END -->
 
 ---

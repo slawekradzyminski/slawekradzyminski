@@ -20,6 +20,7 @@
 <!-- BLOG-POST-LIST:START -->
 | Date | Post |
 |---|---|
+| 2026-10-02 | [AI-Powered Testing: Introducing e2e Framework](https://www.awesome-testing.com/2026/10/agentic-e2e-testing-actions-assertions-and-cost) |
 | 2026-09-26 | [AI Coding Update: The New Economics of Autonomy](https://www.awesome-testing.com/2026/09/agentic-coding-from-assistance-to-delegation) |
 | 2026-09-13 | [Understanding Computer Use](https://www.awesome-testing.com/2026/09/computer-use) |
 | 2026-08-02 | [Mutation Testing for Agent-Written Code](https://www.awesome-testing.com/2026/08/mutation-testing-for-agent-written-code) |
@@ -29,7 +30,6 @@
 | 2026-05-30 | [Local Image Generation with Bonsai Image 4B](https://www.awesome-testing.com/2026/05/local-image-generation-with-bonsai-image-4b) |
 | 2026-03-29 | [From One Local Stack to Three Training Profiles](https://www.awesome-testing.com/2026/03/from-one-local-stack-to-three-training-profiles) |
 | 2026-03-15 | [LLMs vs AI Agents: A Practical Mental Model for Developers](https://www.awesome-testing.com/2026/03/llms-vs-ai-agents-practical-mental-model) |
-| 2026-03-02 | [Playwright CLI, Skills and Isolated Agentic Testing](https://www.awesome-testing.com/2026/03/playwright-cli-skills-and-isolated-agentic-testing) |
 <!-- BLOG-POST-LIST:END -->
 
 ---
